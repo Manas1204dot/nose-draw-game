@@ -143,16 +143,6 @@ The game uses a sophisticated scoring algorithm that considers:
 
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-### Development Setup
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Test thoroughly
-5. Submit a pull request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
@@ -165,6 +155,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 Enjoy drawing with your nose! Challenge your friends to beat your high scores and see who can draw the most accurate shapes.
 
----
-
-**Made with ❤️ and Python** 
